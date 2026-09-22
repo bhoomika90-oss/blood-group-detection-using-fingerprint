@@ -105,4 +105,14 @@ Blood Group Detection Using Fingerprint/
 │
 ├── requirements.txt
 ├── .gitignore
-└── README.md"# blood-group-detection-using-fingerprint" 
+└── README.md"# blood-group-detection-using-fingerprint"
+This project is an experimental machine-learning classification system based on the provided fingerprint dataset.
+
+It is not a clinically validated method for determining a person's blood group and should not be used for medical diagnosis or treatment decisions.
+
+Author
+
+Bhoomika N G
+
+B.Tech – Information Science Engineering
+REVA University, Bengaluru
